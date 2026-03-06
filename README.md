@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celeste-irene
 - 👀 I’m interested in traveling in nature and other countries
-- 🌱 I’m currently learning how to code in C++!
+- 🌱 I’m currently learning how to code in Javascript!
 - 📫 How to reach me: Celestebivens164@gmail.com
 - 😄 Pronouns: She/Her
 
