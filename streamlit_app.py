@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Team 6's Research and Conclusion')
+st.title("Team 6's Research and Conclusion")
 
 st.image("test_cuba/discharge_vs_time.png", caption="Local repo PNG")
 
