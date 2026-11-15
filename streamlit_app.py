@@ -1,22 +1,19 @@
 import streamlit as st
 
-st.title("Team 6's Research and Conclusion")
+st.title("Teamm 6's Research")
 
-st.image("test_cuba/discharge_vs_time.png", caption="Local repo PNG")
-
-st.image("test_cuba/discharge_vs_time.png", caption="Local repo PNG")
-
-# Define the three tabs
-tab1 = st.tabs(["celeste"])
+# Note the comma after tab1 — this unpacks the single-item list properly
+tab1, = st.tabs(["Overview"])
 
 with tab1:
     st.subheader("First Visual")
-    # Path is relative to the root folder of your GitHub repo
-    st.image("test_cuba/discharge_vs_time.png", use_container_width=True)
-    st.write("discharge vs. time")
+    st.image("test_cuba/discharge_vs_time.png")
+    st.write("Add your description here.")
 
-    st.subheader("2nd visual")
-    st.image("test_cuba/velocity_vs_discharge.png", use_container_width=True)
-    st.write("velocity vs. discharge graph")
-    
+    st.subheader("Second Visual")
+    st.image("test_cuba/velocity_vs_discharge.png")
+    st.write("Add your description here.")
+
+
+
 
