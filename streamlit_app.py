@@ -30,17 +30,17 @@ with tab3:
 with tab4:
     st.header("2nd Visual") 
     st.image("test_other/Screenshot 2025-02-17 113457.png")
-    st.write("chart description. sunshine blazing through the ground.")
+    st.write("chart description. sunshine b")
     
 with tab5:
     st.header("2nd Visual") 
     st.image("test_other/Screenshot 2025-02-17 113457.png")
-    st.write("chart description. sunshine blazing through the ground.")
+    st.write("chart description. sunshine blazing  the ground.")
 
 with tab6: 
     st.header("2nd Visual") 
     st.image("test_other/Screenshot 2025-02-17 113457.png")
-    st.write("chart description. sunshine blazing through the ground.")
+    st.write("chart description. sunshine blazing through the .")
 
 
     
